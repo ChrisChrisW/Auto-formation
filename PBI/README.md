@@ -40,6 +40,7 @@ Souhaite-t-il afficher tous les points de données, ou les agréger dans des gro
 * [Librairie de visualisation gratuit](https://appsource.microsoft.com/fr-fr/marketplace/apps?page=1&product=power-bi-visuals&exp=ubp8)
 * Visualisations -> Mettre en forme votre visuel (logo avec un pinceau) - [Personalisé les diagrammes]
 * Visualisations -> Mettre en forme votre visuel (logo avec un pinceau) -> Étiquettes des données - [Accès dynamique des données par exemple des acceptations ou des refus de demandes]
+* Visualisations -> Mettre en forme votre visuel (logo avec un pinceau) -> Éléments de cellule -> Couleur d'arrière plan - [Ajout d'une règle pour surligner un élément important parmi tant d'autre]
 * Format -> Modifier les interractions -> filtre / aucun - [Synchroniser ou non les filtres d'un diagramme]
 
 ### Bonnes pratiques
