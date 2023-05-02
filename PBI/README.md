@@ -43,6 +43,12 @@ Souhaite-t-il afficher tous les points de données, ou les agréger dans des gro
 * Visualisations -> Mettre en forme votre visuel (logo avec un pinceau) -> Éléments de cellule -> Couleur d'arrière plan - [Ajout d'une règle pour surligner un élément important parmi tant d'autre]
 * Format -> Modifier les interractions -> filtre / aucun - [Synchroniser ou non les filtres d'un diagramme]
 
+* **Export**
+
+1. Dans Power BI Desktop, sélectionnez Fichier > Options et paramètres > Options.
+2. Dans le volet de navigation gauche de la fenêtre Options, en bas de la section Fichier actuel, sélectionnez Paramètres des rapports.
+3. En bas à droite, sous Extraction interrapport, cochez la case "Autoriser les visuels de ce rapport à utiliser des cibles d’extraction d’autres rapports".
+
 ### Bonnes pratiques
 
 ---
