@@ -41,4 +41,16 @@ Voici une description de chaque exemple de code pour les services AWS spécifiqu
 
 ### Amazon DynamoDB (base de données NoSQL)
 
-- **[dynamodb.py](dynamodb.py)** : Ce code montre comment utiliser les variables d'environnement pour interagir avec Amazon DynamoDB. Il comprend des exemples d'opérations courantes telles que l'insertion d'un nouvel item, la récupé
+- **[dynamodb.py](dynamodb.py)** : Ce code montre comment insérer, récupérer et mettre à jour des items dans une table DynamoDB.*
+
+Assurez-vous d'avoir correctement configuré vos variables d'environnement avant d'exécuter les codes.
+
+## Remarques
+
+- Gardez le fichier `.env` sécurisé et ne le partagez pas avec d'autres personnes ou ne le versionnez pas dans un système de contrôle de code source public.
+- Assurez-vous d'avoir les autorisations appropriées pour accéder et utiliser les services AWS que vous ciblez.
+- N'hésitez pas à consulter la documentation officielle d'AWS pour obtenir plus d'informations sur chaque service et ses fonctionnalités.
+
+## Licence
+
+Ce projet est sous licence [MIT](LICENSE).
