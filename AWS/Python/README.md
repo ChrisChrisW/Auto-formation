@@ -33,15 +33,15 @@ Voici une description de chaque exemple de code pour les services AWS spécifiqu
 
 ### Amazon S3 (stockage d'objets)
 
-- **[s3.py](s3.py)** : Ce code montre comment utiliser les variables d'environnement pour interagir avec Amazon S3. Il comprend des exemples d'opérations courantes telles que l'upload d'un objet, le téléchargement d'un objet et la liste des objets dans un seau S3.
+- **[s3.py](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/Python/s3.py)** : Ce code montre comment utiliser les variables d'environnement pour interagir avec Amazon S3. Il comprend des exemples d'opérations courantes telles que l'upload d'un objet, le téléchargement d'un objet et la liste des objets dans un seau S3.
 
 ### Amazon EC2 (instances de calcul)
 
-- **[ec2.py](ec2.py)** : Ce code montre comment utiliser les variables d'environnement pour interagir avec Amazon EC2. Il comprend des exemples d'opérations courantes telles que le démarrage et l'arrêt d'une instance EC2, ainsi que l'obtention d'informations sur une instance EC2 spécifique.
+- **[ec2.py](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/Python/ec2.py)** : Ce code montre comment utiliser les variables d'environnement pour interagir avec Amazon EC2. Il comprend des exemples d'opérations courantes telles que le démarrage et l'arrêt d'une instance EC2, ainsi que l'obtention d'informations sur une instance EC2 spécifique.
 
 ### Amazon DynamoDB (base de données NoSQL)
 
-- **[dynamodb.py](dynamodb.py)** : Ce code montre comment insérer, récupérer et mettre à jour des items dans une table DynamoDB.*
+- **[dynamodb.py](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/Python/dynamodb.py)** : Ce code montre comment insérer, récupérer et mettre à jour des items dans une table DynamoDB.*
 
 Assurez-vous d'avoir correctement configuré vos variables d'environnement avant d'exécuter les codes.
 
