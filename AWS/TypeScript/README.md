@@ -40,17 +40,17 @@ Dans les exemples suivants, nous utiliserons les bibliothèques AWS SDK pour Typ
 
 ***Amazon S3 (Simple Storage Service)***
 
-- Exemple : s3.ts
+- Exemple : [s3.ts](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/TypeScript/s3.ts)
 - Ce code montre comment uploader un objet dans un seau S3.
 
 ***Amazon EC2 (Elastic Compute Cloud)***
 
-- Exemple : ec2.ts
+- Exemple : [ec2.ts](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/TypeScript/ec2.ts)
 - Ce code montre comment démarrer, arrêter et obtenir des informations sur une instance EC2.
 
 ***Amazon DynamoDB (NoSQL Database Service)***
 
-- Exemple : dynamodb.ts
+- Exemple : [dynamodb.ts](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/TypeScript/dynamodb.ts)
 - Ce code montre comment insérer, récupérer et mettre à jour des items dans une table DynamoDB.
 Assurez-vous d'avoir correctement configuré vos variables d'environnement avant d'exécuter les exemples de code.
 
