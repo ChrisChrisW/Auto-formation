@@ -97,3 +97,19 @@ Souhaite-t-il afficher tous les points de données, ou les agréger dans des gro
 ### Power Query Editor / Langage M
 
 ---
+
+### +
+
+---
+
+Si vous souhaitez aller plus loin :
+
+Le [site d’apprentissage de Microsoft sur Power BI](https://docs.microsoft.com/learn/paths/prepare-data-power-bi/?wt.mc_id=openclassrooms_learncontent_webpage_wwl) dispose de ressources de qualité pour compléter votre formation.
+
+La [documentation en ligne de Microsoft Power BI](https://docs.microsoft.com/fr-fr/power-bi/) doit être votre référence lorsque vous souhaitez utiliser de nouvelles fonctionnalités et formules.
+
+Si vous souhaitez conclure votre apprentissage par [la certification "PL-300 : Power BI Data Analyst" de Microsoft](https://learn.microsoft.com/fr-fr/certifications/power-bi-data-analyst-associate/), vous pouvez suivre les parcours d’apprentissage proposés par Microsoft. Vous y trouverez tous les compléments nécessaires pour vous préparer !
+
+La [chaîne YouTube de Curbal](https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw) regorge d’astuces très utiles à connaître et d’exemples très sympas à suivre, comme son dashboard de suivi de la Coupe du monde de football en 2018.
+
+Le [blog de Carl](https://carldesouza.com/power-bi/) de Souza contient également de nombreux tutoriels pour les fonctions de Power BI, des plus simples aux plus avancées.
