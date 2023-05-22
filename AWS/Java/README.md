@@ -34,17 +34,17 @@ Dans les exemples suivants, nous utiliserons les bibliothèques AWS SDK pour Jav
 
 ***Amazon S3 (Simple Storage Service)***
 
-- Exemple : AwsS3Example.java
+- Exemple : [AwsS3Example.java](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/Java/myapp/src/main/java/com/myapp/AwsS3Example.java)
 - Ce code montre comment uploader un objet dans un seau S3.
 
 ***Amazon EC2 (Elastic Compute Cloud)***
 
-- Exemple : AwsEc2Example.java
+- Exemple : [AwsEc2Example.java](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/Java/myapp/src/main/java/com/myapp/AwsEc2Example.java)
 - Ce code montre comment démarrer, arrêter et obtenir des informations sur une instance EC2.
 
 ***Amazon DynamoDB (NoSQL Database Service)***
 
-- Exemple : AwsDynamoDBExample.java
+- Exemple : [AwsDynamoDBExample.java](https://github.com/ChrisChrisW/Auto-formation/blob/main/AWS/Java/myapp/src/main/java/com/myapp/AwsDynamoDBExample.java)
 - Ce code montre comment insérer, récupérer et mettre à jour des items dans une table DynamoDB.
 
 Assurez-vous d'avoir correctement configuré vos variables d'environnement avant d'exécuter les exemples de code.
