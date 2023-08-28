@@ -92,5 +92,22 @@ pokedex_txt = pd.read_csv(path + 'pokemon_data.txt', delimiter="\t") # change de
 # ---------------------------------------------
 
 ## aggreate statisics (groupby)
-df.groupby(['Type 1']).mean()
-print(pokedex)
+# df = pd.read_csv(output_path + "modified.csv")
+# print(df.groupby(['Type 1']).mean().sort_values('Defense', ascending=False)) # TODO : don't working
+# print(df.groupby(['Type 1']).sum())
+# df['count'] = 1
+# print(df.groupby(['Type 1']).count()['count'])
+
+
+# ---------------------------------------------
+
+## working with large amounts of data
+# df = pd.read_csv(output_path + "modified.csv")
+# new_df = pd.DataFrame(columns=df.columns)
+
+# for df in pd.read_csv(output_path + "modified.csv", chunksize=5):
+#     result = df.groupby(["Type 1"]).count()
+
+#     new_df = pd.concat([new_df, result])
+
+# print(new_df)
